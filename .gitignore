@@ -1,1 +1,3 @@
-ignorefolder/file
+.ignorefolder/
+!.ignorefolder/.gitkeep
+ignoreme
